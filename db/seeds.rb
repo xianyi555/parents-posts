@@ -5,3 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Post.create(image: 'xianyis site', description: 'this a good bady');
+
+Post.create(image: 'Ken Dong', description: 'It is a bad body!');
+
+Post.create(image: 'Mick Zhaos image', description: 'he a funny ba
+dy from Qingdaoy!')
